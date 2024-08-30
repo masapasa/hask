@@ -1,3 +1,11 @@
 # Added by cargo
 /target
 Cargo.lock
+**/*.rs.bk
+**/*.rs.swp
+**/*.rs~
+**/*.rs.orig
+**/*.rs.save
+**/*.rs.bak
+**/*.next
+.DS_Store
